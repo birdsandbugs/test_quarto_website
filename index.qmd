@@ -1,13 +1,18 @@
 ---
 title: "test_quarto_website"
+image: media/goose_island.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: my website
+      href: https://www.grahammontgomery.eco
+    - text: GitHub
+      href: https://github.com/birdsandbugs
+    - text: Email
+      href: mailto:montgomery.graham@gmail.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-
-
-```
+Hi, and welcome to Goose Island!
